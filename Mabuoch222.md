@@ -1,7 +1,8 @@
+
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f1c2c&height=200&section=header&text=Mabuoch222&fontSize=40&fontColor=ffffff" />
 </p>
-
 
 <h1 align="center">Hi, I'm Mabuoch222 👋</h1>
 
@@ -10,8 +11,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mabuoch222" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Data+Analytics+Enthusiast;Future+ML+Engineer;Open+Source+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Aspiring+Data+Analyst;Future+ML+Engineer;Open+Source+Learner&center=true&width=500&height=50">
+</p>
+
+---
+
+<!-- Student Laptop Image -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
 </p>
 
 ---
@@ -19,17 +28,18 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 BSc (Hons) Computer Science Student  
-- 💡 Passionate about **Data Analytics, Software Development & Machine Learning**  
+- 💡 Interested in **Data Analytics, Software Development & Machine Learning**  
 - ☁️ Exploring **Cloud Computing & DevOps**  
-- 🚀 Always learning and building new projects  
+- 🚀 Passionate about building real-world projects  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧠 Skills (Languages & Technologies)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,sql,react,html,css,git,github,vscode,docker" />
-</p>
+- **Programming Languages:** C++, Python, Java, SQL  
+- **Web Development:** HTML, CSS, React  
+- **Tools & Technologies:** Git, GitHub, VS Code, Docker  
+- **Concepts:** Data Structures, Problem Solving, Machine Learning Basics  
 
 ---
 
