@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f1c2c&height=200&section=header&text=Mabuoch222&fontSize=40&fontColor=ffffff" />
@@ -11,19 +10,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mabuoch222" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Aspiring+Data+Analyst;Future+ML+Engineer;Open+Source+Learner&center=true&width=500&height=50">
-</p>
-
 ---
 
-<!-- Student Laptop Image -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-</p>
-
----
+<!-- Image on Right + About Section -->
+<table>
+<tr>
+<td width="65%">
 
 ## 🙋‍♂️ About Me
 
@@ -31,6 +23,16 @@
 - 💡 Interested in **Data Analytics, Software Development & Machine Learning**  
 - ☁️ Exploring **Cloud Computing & DevOps**  
 - 🚀 Passionate about building real-world projects  
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="profile.png" width="250" style="border-radius: 15px;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,14 +57,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mabuoch222&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabuoch222&layout=compact&theme=tokyonight" />
 </p>
 
 ---
