@@ -24,17 +24,26 @@
 - ☁️ Exploring **Cloud Computing & DevOps**  
 - 🚀 Passionate about building real-world projects  
 
+<table>
+<tr>
+<td width="65%">
+
+## 🙋‍♂️ About Me
+
+- 🎓 BSc (Hons) Computer Science Student  
+- 💡 Interested in **Data Analytics, Software Development & Machine Learning**  
+- ☁️ Exploring **Cloud Computing & DevOps**  
+- 🚀 Passionate about building real-world projects  
+
 </td>
 
 <td width="35%" align="center">
 
-<img src="profile.png" width="250" style="border-radius: 15px;" />
+<img src="https://raw.githubusercontent.com/Mabuoch222/Mabuoch222/main/profile.jpg" width="250"/>
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🧠 Skills (Languages & Technologies)
 
